@@ -1,7 +1,7 @@
 class Solution {
 public:
-int sumofd(vector<int>& nums,int d){
-    int sum=0;
+long long sumofd(vector<int>& nums,int d){
+    long long sum=0;
     int n=nums.size();
     for(int i=0;i<n;i++){
         sum+=ceil((double)nums[i]/(double)d);
