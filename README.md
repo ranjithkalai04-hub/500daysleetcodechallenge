@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
