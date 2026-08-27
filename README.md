@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1406-stone-game-iii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
