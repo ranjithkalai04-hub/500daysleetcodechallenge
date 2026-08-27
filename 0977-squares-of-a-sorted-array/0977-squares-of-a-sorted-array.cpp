@@ -9,7 +9,7 @@ public:
         return nums;
     }
 };
-/*
+/* OPTIMAL
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
