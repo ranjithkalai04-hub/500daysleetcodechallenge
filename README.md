@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1406-stone-game-iii) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
