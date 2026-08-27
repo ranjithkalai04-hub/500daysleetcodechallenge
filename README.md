@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
