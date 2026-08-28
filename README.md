@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
