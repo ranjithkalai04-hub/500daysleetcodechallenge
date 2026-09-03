@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
