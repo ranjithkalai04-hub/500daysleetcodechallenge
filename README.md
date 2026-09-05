@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0219-contains-duplicate-ii) |
