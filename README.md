@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0014-longest-common-prefix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0219-contains-duplicate-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
