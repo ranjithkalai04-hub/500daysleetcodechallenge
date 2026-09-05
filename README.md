@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0657-robot-return-to-origin) |
+| [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -231,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
