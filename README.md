@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
