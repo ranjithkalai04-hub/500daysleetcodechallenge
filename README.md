@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2073-time-needed-to-buy-tickets) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1901-find-a-peak-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
