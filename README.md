@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0835-image-overlap](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
