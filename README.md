@@ -327,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0196-delete-duplicate-emails) |
+| [1667-fix-names-in-a-table](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
