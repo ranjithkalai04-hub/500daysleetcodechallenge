@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0595-big-countries) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1683-invalid-tweets) |
