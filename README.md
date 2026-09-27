@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -300,12 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
