@@ -1,19 +1,20 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int depth = 0;
-        int maxDepth = 0;
-
-        for (char c : s) {
-            if (c == '(') {
-                depth++;
-                maxDepth = max(maxDepth, depth);
-            }
-            else if (c == ')') {
-                depth--;
-            }
+      int cnt=0;
+      int maxi=0;
+     int n=s.length();
+      for(char ch:s){
+        if(ch=='('){
+            cnt++;
+            maxi=max(maxi,cnt);
         }
-
-        return maxDepth;
+        else if(ch==')'){
+             cnt-=1;      
+            
+        }
+        else continue;
+      }  
+      return maxi;
     }
 };
