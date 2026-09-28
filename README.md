@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
