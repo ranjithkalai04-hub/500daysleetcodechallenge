@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## Queue
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -378,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3525-find-x-value-of-array-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
