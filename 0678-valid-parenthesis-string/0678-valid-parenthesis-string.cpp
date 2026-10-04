@@ -1,26 +1,63 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int n=s.length();
-        int low=0;
-        int high=0;
-        for(char ch:s){
-            if(ch=='('){
-                low++;
-                high++;
+
+        int leftMin = 0;
+        int leftMax = 0;
+
+        for (char c : s) {
+
+            if (c == '(') {
+                leftMin++;
+                leftMax++;
             }
-            else if(ch==')'){
-                low--;
-                high--;
+
+            else if (c == ')') {
+                leftMin--;
+                leftMax--;
             }
-            else{
-                low--;
-                high++;
+
+            else { // '*'
+                leftMin--;  // '*' can become ')'
+                leftMax++;  // '*' can become '('
             }
-            low=max(0,low);
-            if(high<0)return false;
+
+            // We cannot have more ')' than '('
+            if (leftMax < 0)
+                return false;
+
+            // Minimum cannot stay negative
+            if (leftMin < 0)
+                leftMin = 0;
         }
-        if(low==0)return true;
-        return 0;
+
+        return leftMin == 0;
     }
 };
+        /*
+        int leftmin=0;
+        int leftmax=0;
+        for(int i=0; i<s.length(); i++){
+            if(s[i]=='('){
+                leftmin++;
+                leftmax++;
+            }
+            else if(s[i]==')'){
+                leftmin--;
+                leftmax--;
+            }
+            else{
+                leftmin--;
+                leftmax++;
+            }
+        }
+        if(leftmax<0){
+          return false;
+        }
+        if(leftmin<0){
+            leftmin=0;
+        }
+        return leftmin==0;
+
+    }
+};*/
