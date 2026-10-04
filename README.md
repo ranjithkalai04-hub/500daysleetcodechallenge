@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1406-stone-game-iii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
