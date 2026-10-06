@@ -1,21 +1,25 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int balance=0;
-        int ans=0;
-        for(char ch :s){
-            if(ch=='('){
-                balance++;
+        int open=0;
+        int count=0;
+        for(int i=0; i<s.length(); i++){
+           if(s[i]=='('){
+            open++;
+           }
+           else{
+            if(open>0){
+                open--;
             }
-            else {
-                balance--;
+            else{
+                count++;
             }
-            if(balance<0){
-                ans++;
-                balance=0;
-            }
+           }
+
         }
-        ans+=abs(balance);
-        return ans;
+        count+=open;
+        return count;
+
+        
     }
 };
