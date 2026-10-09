@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        
         int insertions = 0;
         int open = 0;
 
