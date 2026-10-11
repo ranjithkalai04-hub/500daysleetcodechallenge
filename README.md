@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
