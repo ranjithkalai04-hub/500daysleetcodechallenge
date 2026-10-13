@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
