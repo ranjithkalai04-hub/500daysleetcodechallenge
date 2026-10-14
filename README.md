@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
