@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0657-robot-return-to-origin) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2073-time-needed-to-buy-tickets) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0835-image-overlap) |
