@@ -1,24 +1,27 @@
-class Solution {
+class Solution
+{
 public:
-    int sumCounts(vector<int>& nums) {
-        int ans=0;
-        set<int>s;
-        int n=nums.size();
+    int sumCounts(vector<int> &nums)
+    {
 
-        for(int i=0; i<n; i++){
-            ans+=1;
-        }
-        for(int left=0; left<n-1; left++){
-            s.clear();
-            for(int right=left+1; right<n; right++){
-                s.insert(nums.begin()+left, nums.begin()+right+1);
-                int size=s.size();
-                ans+=(size*size);
+        int n = nums.size();
+
+        int sum = 0;
+        
+          
+        for(int i=0;i<n;i++){
+            int cnt = 0;
+            set<int> st;
+            for(int j=i;j<n;j++){
+                if(st.find(nums[j])==st.end())
+                
+                  {  st.insert(nums[j]);
+                    cnt++;  
+}
+                    sum+=cnt*cnt;
             }
+            
         }
-        
-        
-        return ans;
-        
+        return sum;
     }
 };
