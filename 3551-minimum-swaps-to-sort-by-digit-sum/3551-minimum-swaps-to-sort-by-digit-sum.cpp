@@ -1,11 +1,12 @@
+
 class Solution {
 public:
-    int digitSum(int n) {
+    int getdigitsum(int num) {
         int sum = 0;
 
-        while (n > 0) {
-            sum += n % 10;
-            n /= 10;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
         }
 
         return sum;
@@ -13,44 +14,45 @@ public:
 
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
+        vector<int> aftersort(nums);
 
-        vector<pair<int, int>> arr;
+        auto lambda = [&](int num1, int num2) {
+            int sum1 = getdigitsum(num1);
+            int sum2 = getdigitsum(num2);
+
+            if (sum1 != sum2)
+                return sum1 < sum2;
+
+            return num1 < num2;
+        };
+
+        sort(aftersort.begin(), aftersort.end(), lambda);
+
+        unordered_map<int, int> valtoidx;
 
         for (int i = 0; i < n; i++) {
-            arr.push_back({nums[i], i});
+            valtoidx[nums[i]] = i;
         }
 
-        sort(arr.begin(), arr.end(), [&](auto a, auto b) {
-            int sumA = digitSum(a.first);
-            int sumB = digitSum(b.first);
-
-            if (sumA != sumB)
-                return sumA < sumB;
-
-            return a.first < b.first;
-        });
-
-        vector<int> visited(n, 0);
-        int swaps = 0;
+        int cnt = 0;
 
         for (int i = 0; i < n; i++) {
-            if (visited[i] || arr[i].second == i)
+            int expected = aftersort[i];
+            int currval = nums[i];
+
+            if (expected == currval)
                 continue;
 
-            int cycleSize = 0;
-            int j = i;
+            int idx = valtoidx[expected];
 
-            while (!visited[j]) {
-                visited[j] = 1;
-                j = arr[j].second;
-                cycleSize++;
-            }
+            swap(nums[i], nums[idx]);
 
-            if (cycleSize > 1)
-                swaps += cycleSize - 1;
+            valtoidx[expected] = i;
+            valtoidx[currval] = idx;
+
+            cnt++;
         }
 
-        return swaps;
+        return cnt;
     }
 };
-
