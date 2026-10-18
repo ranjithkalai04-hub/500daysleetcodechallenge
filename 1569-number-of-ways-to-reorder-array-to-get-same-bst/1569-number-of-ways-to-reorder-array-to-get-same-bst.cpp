@@ -1,20 +1,22 @@
 
 class Solution {
 public:
-    static const long long MOD = 1000000007;
+    static const int MOD = 1'000'000'007;
     vector<vector<long long>> comb;
 
-    long long solve(vector<int>& nums) {
+    int solve(vector<int>& nums) {
         int n = nums.size();
 
+        // Base case: an empty or single-node tree
         if (n <= 2) {
             return 1;
         }
 
-        vector<int> left, right;
-
         int root = nums[0];
 
+        vector<int> left, right;
+
+        // Divide elements into left and right subtrees
         for (int i = 1; i < n; i++) {
             if (nums[i] < root) {
                 left.push_back(nums[i]);
@@ -23,22 +25,31 @@ public:
             }
         }
 
+        // Count valid reorderings of each subtree
         long long leftWays = solve(left);
         long long rightWays = solve(right);
 
-        long long interleave =
-            comb[n - 1][left.size()];
+        int L = left.size();
+        int R = right.size();
 
-        return interleave * leftWays % MOD
-                         * rightWays % MOD;
+        // Choose positions for the left subtree elements
+        long long ways = comb[L + R][L];
+
+        ways = ways * leftWays % MOD;
+        ways = ways * rightWays % MOD;
+
+        return ways;
     }
 
     int numOfWays(vector<int>& nums) {
         int n = nums.size();
 
-        comb.assign(n + 1, vector<long long>(n + 1, 1));
+        // Precompute combinations using Pascal's triangle
+        comb.assign(n + 1, vector<long long>(n + 1, 0));
 
-        for (int i = 2; i <= n; i++) {
+        for (int i = 0; i <= n; i++) {
+            comb[i][0] = comb[i][i] = 1;
+
             for (int j = 1; j < i; j++) {
                 comb[i][j] =
                     (comb[i - 1][j - 1] +
@@ -46,6 +57,7 @@ public:
             }
         }
 
+        // Subtract the original ordering
         return (solve(nums) - 1 + MOD) % MOD;
     }
 };
