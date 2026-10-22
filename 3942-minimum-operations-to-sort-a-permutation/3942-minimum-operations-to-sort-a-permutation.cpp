@@ -1,46 +1,37 @@
 class Solution {
 public:
-int solve(vector<int>&nums){
-    int n=nums.size();
-    vector<int>a=nums;
-    for(int i:nums){
-        a.push_back(i);
+    int solve(vector<int>& nums) {
+        int n = nums.size();
+        int zero = -1, last = -1;
+        bool inc = true, dec = true;
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == 0) zero = i;
+            if (nums[i] == n - 1) last = i;
+
+            int next = nums[(i + 1) % n];
+
+            if (next != (nums[i] + 1) % n)
+                inc = false;
+
+            if (next != (nums[i] - 1 + n) % n)
+                dec = false;
+        }
+
+        if (inc) {
+            return min(zero, n - zero + 2);
+        }
+
+        if (dec) {
+            return min(last + 1, n - zero);
+        }
+
+        return -1;
     }
-    int cnt=1;
-    for(int i=1;i<a.size();i++){
-        
-        if(a[i]<a[i-1]){
-            cnt=1;
-        }
-        else{
-            cnt++;
-            if(cnt==n){
-                return  i+1-n;
-            }
-        }
-    }
-     cnt=1;
-    for(int i=1;i<a.size();i++){
-        
-        if(a[i]>a[i-1]){
-            cnt=1;
-        }
-        else{
-            cnt++;
-            if(cnt==n){
-                return  i+2-n;
-            }
-        }
-    }
-    return 1e9;
-}
+
     int minOperations(vector<int>& nums) {
-        int ans=solve(nums);
+        if (nums.size() == 1) return 0;
 
-        if(nums.size()==1)return 0;
-
-         reverse(nums.begin(),nums.end());
-         ans=min(ans,solve(nums)+1);
-         return ans==1e9?-1:ans;
+        return solve(nums);
     }
 };
