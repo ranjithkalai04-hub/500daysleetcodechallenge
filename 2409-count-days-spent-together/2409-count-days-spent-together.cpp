@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int getnumbers(string &s){
+    int getnumbers(string s){
         int d[]={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
         int month=stoi(s.substr(0,2));
