@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0835-image-overlap) |
