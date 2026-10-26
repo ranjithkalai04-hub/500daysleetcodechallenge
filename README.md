@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
