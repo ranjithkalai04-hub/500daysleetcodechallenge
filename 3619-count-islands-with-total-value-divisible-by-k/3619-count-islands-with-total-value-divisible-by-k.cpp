@@ -1,42 +1,46 @@
 class Solution {
 public:
-      long long dfs(int r, int c, vector<vector<int>>& grid,int m,int n) {
-        if (r < 0 || c < 0 || r >= m || c >= n ||
-            grid[r][c] == 0) {
-            return 0;
+    int m, n;
+    vector<vector<int>>direction = {{0,1}, {0, -1}, {1, 0}, {-1,0}};
+
+    long long dfs( int i, int j , vector<vector<int>>& grid){
+        long long sum= grid[i][j];
+        grid[i][j]=0;
+
+        int i_, j_;
+
+        for(vector<int>& dir: direction){
+            i_= i+dir[0];
+            j_= j+dir[1];
+
+            if(i_>=0 && i_<m && j_>=0 && j_<n && grid[i_][j_]>0){
+           sum+= dfs(i_, j_, grid);
+        }
+        
         }
 
-        // Mark this cell as visited.
-        int value = grid[r][c];
-        grid[r][c] = 0;
-
-        // Explore all 4 directions.
-        long long sum = value;
-
-        sum += dfs(r + 1, c, grid,m,n);
-        sum += dfs(r - 1, c, grid,m,n);
-        sum += dfs(r, c + 1, grid,m,n);
-        sum += dfs(r, c - 1, grid,m,n);
-
+        
         return sum;
-    }
-    int countIslands(vector<vector<int>>& grid, int k) {
-       int m=grid.size();
-       int n=grid[0].size();
 
-       
-        int ans = 0;
-       for(int r=0;r<m;r++){
-        for(int c=0;c<n;c++){
-            if(grid[r][c]>0 ){
-                long long sum=dfs(r,c,grid,m,n);
-                if (sum % k == 0) 
-                        ans++;
+
+    }
+    
+    int countIslands(vector<vector<int>>& grid, int k) {
+        
+        m= grid.size();
+        n=grid[0].size();
+        int count;
+        
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(grid[i][j]>0){
+                    long long sum = dfs(i, j, grid);
+                    if(sum % k ==0){
+                        count++;
+                    }
+                }
             }
-             
-                    
         }
-       }
-return ans;
+        return count;
     }
 };
