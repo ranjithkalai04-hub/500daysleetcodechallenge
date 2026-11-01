@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1401-circle-and-rectangle-overlapping) |
