@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0657-robot-return-to-origin) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2073-time-needed-to-buy-tickets) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
