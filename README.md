@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0242-valid-anagram) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0151-reverse-words-in-a-string) |
