@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0073-set-matrix-zeroes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0118-pascals-triangle) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
