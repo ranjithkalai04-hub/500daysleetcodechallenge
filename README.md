@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0185-department-top-three-salaries) |
