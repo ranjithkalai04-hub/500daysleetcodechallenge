@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0657-robot-return-to-origin) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2073-time-needed-to-buy-tickets) |
