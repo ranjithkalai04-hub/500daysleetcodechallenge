@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Segment Tree
