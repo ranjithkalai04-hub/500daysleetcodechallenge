@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
