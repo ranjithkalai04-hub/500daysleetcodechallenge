@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2409-count-days-spent-together) |
