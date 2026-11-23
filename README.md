@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2409-count-days-spent-together) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3345-smallest-divisible-digit-product-i) |
