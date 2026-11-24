@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2942-find-words-containing-character](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3019-number-of-changing-keys) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3498-reverse-degree-of-a-string) |
