@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2942-find-words-containing-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3524-find-x-value-of-array-i) |
