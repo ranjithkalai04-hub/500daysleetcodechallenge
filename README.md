@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/0067-add-binary) |
+| [1486-xor-operation-in-an-array](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ranjithkalai04-hub/500daysleetcodechallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
